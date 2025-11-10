@@ -3,6 +3,16 @@ entries:
   app:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2025-11-10T16:01:21.77697488-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 807bfe16b049ff358d40b0a51e686595f394625dfb2e25f51e5a0b1220f68aa7
+    name: app
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/BautistaTosolini/helm-chart/0.3.0/release/app-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2025-11-10T15:13:15.33428253-03:00"
     description: A Helm chart for Kubernetes
     digest: 94ba540133635faa7f43951ed0570d8b1934c63b5851b9726b5a8cb88c948788
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://raw.githubusercontent.com/BautistaTosolini/helm-chart/0.1.0/release/app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-10T15:13:15.333892934-03:00"
+generated: "2025-11-10T16:01:21.776531956-03:00"
