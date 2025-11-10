@@ -9,7 +9,7 @@ entries:
     name: app
     type: application
     urls:
-    - https://raw.githubusercontent.com/BautistaTosolini/helm-chart/0.2.0/release/release/app-0.2.0.tgz
+    - https://raw.githubusercontent.com/BautistaTosolini/helm-chart/0.2.0/release/app-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
